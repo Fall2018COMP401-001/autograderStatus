@@ -1,2 +1,0 @@
-# autograderStatus
-Autograder Status
