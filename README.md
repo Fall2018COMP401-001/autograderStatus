@@ -1,13 +1,16 @@
 # Autograder Status
-Autograder last run at: September 23, 2018 at 14:40
+Autograder last run at: September 23, 2018 at 15:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| akarafas | a2 | [graded-04721b](https://github.com/Fall2018COMP401-001/a2-akarafas/tree/graded-04721b) | 
-| bbordonaro | a2 | [graded-226c57](https://github.com/Fall2018COMP401-001/a2-bbordonaro/tree/graded-226c57) | 
-| Bossyqueen | a2 | [graded-035608](https://github.com/Fall2018COMP401-001/a2-Bossyqueen/tree/graded-035608) | 
-| dahyunseo | a2 | [graded-ca4f59](https://github.com/Fall2018COMP401-001/a2-dahyunseo/tree/graded-ca4f59) | 
-| eorcel22 | a2 | [graded-53e897](https://github.com/Fall2018COMP401-001/a2-eorcel22/tree/graded-53e897) | 
-| fanieldan | a2 | [graded-bcbd3f](https://github.com/Fall2018COMP401-001/a2-fanieldan/tree/graded-bcbd3f) | 
-| mghanby | a2 | [graded-adef11](https://github.com/Fall2018COMP401-001/a2-mghanby/tree/graded-adef11) | 
-| wbass | a2 | [graded-54fd08](https://github.com/Fall2018COMP401-001/a2-wbass/tree/graded-54fd08) | 
+| Bossyqueen | a2 | [graded-81f359](https://github.com/Fall2018COMP401-001/a2-Bossyqueen/tree/graded-81f359) | 
+| GTWise | a2 | [graded-aae6ff](https://github.com/Fall2018COMP401-001/a2-GTWise/tree/graded-aae6ff) | 
+| hannah47 | a2 | [graded-bd0860](https://github.com/Fall2018COMP401-001/a2-hannah47/tree/graded-bd0860) | 
+| jacksonnorris | a2 | [graded-efa686](https://github.com/Fall2018COMP401-001/a2-jacksonnorris/tree/graded-efa686) | 
+| JiatongShi | a2 | [graded-3d42ba](https://github.com/Fall2018COMP401-001/a2-JiatongShi/tree/graded-3d42ba) | 
+| mjlake | a2 | [graded-d34ed8](https://github.com/Fall2018COMP401-001/a2-mjlake/tree/graded-d34ed8) | 
+| mkasari | a2 | [graded-2b9a2e](https://github.com/Fall2018COMP401-001/a2-mkasari/tree/graded-2b9a2e) | 
+| philipwall11 | a2 | [graded-ef5f27](https://github.com/Fall2018COMP401-001/a2-philipwall11/tree/graded-ef5f27) | 
+| quint0 | a2 | [graded-02a942](https://github.com/Fall2018COMP401-001/a2-quint0/tree/graded-02a942) | 
+| trippch | a2 | [graded-165b83](https://github.com/Fall2018COMP401-001/a2-trippch/tree/graded-165b83) | 
+| wellermac1 | a2 | [graded-c17808](https://github.com/Fall2018COMP401-001/a2-wellermac1/tree/graded-c17808) | 
