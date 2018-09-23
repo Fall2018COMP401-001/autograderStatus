@@ -1,10 +1,12 @@
 # Autograder Status
-Autograder last run at: September 22, 2018 at 23:40
+Autograder last run at: September 23, 2018 at 00:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| CreateAnUtopia | a2 | [graded-e928d8](https://github.com/Fall2018COMP401-001/a2-CreateAnUtopia/tree/graded-e928d8) | 
-| eorcel22 | a2 | [graded-5694a8](https://github.com/Fall2018COMP401-001/a2-eorcel22/tree/graded-5694a8) | 
-| jennzli | a2 | [graded-fe070a](https://github.com/Fall2018COMP401-001/a2-jennzli/tree/graded-fe070a) | 
-| morgan0204 | a2 | [graded-5c4192](https://github.com/Fall2018COMP401-001/a2-morgan0204/tree/graded-5c4192) | 
-| n33va | a2 | [graded-a1c1a2](https://github.com/Fall2018COMP401-001/a2-n33va/tree/graded-a1c1a2) | 
+| akarafas | a2 | [graded-e796f5](https://github.com/Fall2018COMP401-001/a2-akarafas/tree/graded-e796f5) | 
+| archithapavuluri | a2 | [graded-4c5632](https://github.com/Fall2018COMP401-001/a2-archithapavuluri/tree/graded-4c5632) | 
+| burnsdy | a2 | [graded-b558cb](https://github.com/Fall2018COMP401-001/a2-burnsdy/tree/graded-b558cb) | 
+| CreateAnUtopia | a2 | [graded-9c466f](https://github.com/Fall2018COMP401-001/a2-CreateAnUtopia/tree/graded-9c466f) | 
+| eorcel22 | a2 | [graded-903ac4](https://github.com/Fall2018COMP401-001/a2-eorcel22/tree/graded-903ac4) | 
+| jennzli | a2 | [graded-311ff6](https://github.com/Fall2018COMP401-001/a2-jennzli/tree/graded-311ff6) | 
+| LeekSwan | a2 | [graded-87d712](https://github.com/Fall2018COMP401-001/a2-LeekSwan/tree/graded-87d712) | 
