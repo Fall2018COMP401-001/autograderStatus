@@ -1,21 +1,21 @@
 # Autograder Status
-Autograder last run at: September 23, 2018 at 21:20
+Autograder last run at: September 23, 2018 at 21:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ariedwards | a2 | [graded-d60f2f](https://github.com/Fall2018COMP401-001/a2-ariedwards/tree/graded-d60f2f) | 
-| bjtaylo | a2 | [graded-348bcc](https://github.com/Fall2018COMP401-001/a2-bjtaylo/tree/graded-348bcc) | 
-| bradszy | a2 | [graded-5e13fc](https://github.com/Fall2018COMP401-001/a2-bradszy/tree/graded-5e13fc) | 
-| chipduy | a2 | [graded-e8f027](https://github.com/Fall2018COMP401-001/a2-chipduy/tree/graded-e8f027) | 
-| dsuhas99 | a2 | [graded-b0b337](https://github.com/Fall2018COMP401-001/a2-dsuhas99/tree/graded-b0b337) | 
-| ecstellman | a2 | [graded-4bb0af](https://github.com/Fall2018COMP401-001/a2-ecstellman/tree/graded-4bb0af) | 
-| erevis | a2 | [graded-520289](https://github.com/Fall2018COMP401-001/a2-erevis/tree/graded-520289) | 
-| fanieldan | a2 | [graded-661e7a](https://github.com/Fall2018COMP401-001/a2-fanieldan/tree/graded-661e7a) | 
-| finnfeigher | a2 | [graded-aa37f4](https://github.com/Fall2018COMP401-001/a2-finnfeigher/tree/graded-aa37f4) | 
-| hopegattis | a2 | [graded-90e70d](https://github.com/Fall2018COMP401-001/a2-hopegattis/tree/graded-90e70d) | 
-| huang8a | a2 | [graded-f53e6f](https://github.com/Fall2018COMP401-001/a2-huang8a/tree/graded-f53e6f) | 
-| jacob704 | a2 | [graded-2f14b7](https://github.com/Fall2018COMP401-001/a2-jacob704/tree/graded-2f14b7) | 
-| jellanella | a2 | [graded-f0134b](https://github.com/Fall2018COMP401-001/a2-jellanella/tree/graded-f0134b) | 
+| erevis | a2 | [graded-288ec4](https://github.com/Fall2018COMP401-001/a2-erevis/tree/graded-288ec4) | 
+| georgee117 | a2 | [graded-efad92](https://github.com/Fall2018COMP401-001/a2-georgee117/tree/graded-efad92) | 
+| jacob704 | a2 | [graded-df63d3](https://github.com/Fall2018COMP401-001/a2-jacob704/tree/graded-df63d3) | 
+| Kcj55575 | a2 | [graded-d8b46d](https://github.com/Fall2018COMP401-001/a2-Kcj55575/tree/graded-d8b46d) | 
+| mikedoucettejr | a2 | [graded-b0818e](https://github.com/Fall2018COMP401-001/a2-mikedoucettejr/tree/graded-b0818e) | 
+| nravensc | a2 | [graded-40052c](https://github.com/Fall2018COMP401-001/a2-nravensc/tree/graded-40052c) | 
+| rachel-07 | a1 | [graded-5334f0](https://github.com/Fall2018COMP401-001/a1-rachel-07/tree/graded-5334f0) | 
+| rdhall98 | a2 | [graded-a0da59](https://github.com/Fall2018COMP401-001/a2-rdhall98/tree/graded-a0da59) | 
+| theoegan | a2 | [graded-ea1147](https://github.com/Fall2018COMP401-001/a2-theoegan/tree/graded-ea1147) | 
+| treytanjuatco | a2 | [graded-d2ce99](https://github.com/Fall2018COMP401-001/a2-treytanjuatco/tree/graded-d2ce99) | 
+| ttran5593 | a2 | [graded-48fca5](https://github.com/Fall2018COMP401-001/a2-ttran5593/tree/graded-48fca5) | 
+| zheyongzhou | a2 | [graded-32da8d](https://github.com/Fall2018COMP401-001/a2-zheyongzhou/tree/graded-32da8d) | 
+ded-f0134b](https://github.com/Fall2018COMP401-001/a2-jellanella/tree/graded-f0134b) | 
 | jhan56 | a2 | [graded-a35538](https://github.com/Fall2018COMP401-001/a2-jhan56/tree/graded-a35538) | 
 | joshjiang | a2 | [graded-b69dbe](https://github.com/Fall2018COMP401-001/a2-joshjiang/tree/graded-b69dbe) | 
 | jschmitt1 | a2 | [graded-cd26b3](https://github.com/Fall2018COMP401-001/a2-jschmitt1/tree/graded-cd26b3) | 
