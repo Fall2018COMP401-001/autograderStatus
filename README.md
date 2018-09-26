@@ -1,7 +1,7 @@
 # Autograder Status
-Autograder last run at: September 25, 2018 at 21:40
+Autograder last run at: September 25, 2018 at 22:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ianfergu | a2 | [graded-f7027c](https://github.com/Fall2018COMP401-001/a2-ianfergu/tree/graded-f7027c) | 
-| rcharlie23 | a2 | [graded-9f4ee3](https://github.com/Fall2018COMP401-001/a2-rcharlie23/tree/graded-9f4ee3) | 
+| ann3sophie | a2 | [graded-1f1339](https://github.com/Fall2018COMP401-001/a2-ann3sophie/tree/graded-1f1339) | 
+| rcharlie23 | a2 | [graded-b4a32c](https://github.com/Fall2018COMP401-001/a2-rcharlie23/tree/graded-b4a32c) | 
