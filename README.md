@@ -1,14 +1,13 @@
 # Autograder Status
-Autograder last run at: October 06, 2018 at 23:40
+Autograder last run at: October 07, 2018 at 00:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| bbordonaro | a3 | [graded-c5b33a](https://github.com/Fall2018COMP401-001/a3-bbordonaro/tree/graded-c5b33a) | 
-| cturgeon | a3 | [graded-e90f2d](https://github.com/Fall2018COMP401-001/a3-cturgeon/tree/graded-e90f2d) | 
-| ijameswei | a3 | [graded-965e1c](https://github.com/Fall2018COMP401-001/a3-ijameswei/tree/graded-965e1c) | 
-| laurencalwilt | a3 | [graded-d75d40](https://github.com/Fall2018COMP401-001/a3-laurencalwilt/tree/graded-d75d40) | 
-| mbmayone | a3 | [graded-c38d08](https://github.com/Fall2018COMP401-001/a3-mbmayone/tree/graded-c38d08) | 
-| n33va | a3 | [graded-a4deba](https://github.com/Fall2018COMP401-001/a3-n33va/tree/graded-a4deba) | 
-| noahj98 | a3 | [graded-f62679](https://github.com/Fall2018COMP401-001/a3-noahj98/tree/graded-f62679) | 
-| TianziFC | a3 | [graded-ff0e67](https://github.com/Fall2018COMP401-001/a3-TianziFC/tree/graded-ff0e67) | 
-| tymx | a3 | [graded-d22254](https://github.com/Fall2018COMP401-001/a3-tymx/tree/graded-d22254) | 
+| bbordonaro | a3 | [graded-d7d4d7](https://github.com/Fall2018COMP401-001/a3-bbordonaro/tree/graded-d7d4d7) | 
+| elwyn578 | a3 | [graded-8bd4f1](https://github.com/Fall2018COMP401-001/a3-elwyn578/tree/graded-8bd4f1) | 
+| Fisherswamp | a3 | [graded-b26ba3](https://github.com/Fall2018COMP401-001/a3-Fisherswamp/tree/graded-b26ba3) | 
+| ijameswei | a3 | [graded-24bab3](https://github.com/Fall2018COMP401-001/a3-ijameswei/tree/graded-24bab3) | 
+| jcpwfloi | a3 | [graded-a05672](https://github.com/Fall2018COMP401-001/a3-jcpwfloi/tree/graded-a05672) | 
+| MEECAH | a3 | [graded-c8e58d](https://github.com/Fall2018COMP401-001/a3-MEECAH/tree/graded-c8e58d) | 
+| noahj98 | a3 | [graded-e741e2](https://github.com/Fall2018COMP401-001/a3-noahj98/tree/graded-e741e2) | 
+| TianziFC | a3 | [graded-05c7b9](https://github.com/Fall2018COMP401-001/a3-TianziFC/tree/graded-05c7b9) | 
