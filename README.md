@@ -1,13 +1,12 @@
 # Autograder Status
-Autograder last run at: October 07, 2018 at 00:20
+Autograder last run at: October 07, 2018 at 00:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| bbordonaro | a3 | [graded-d7d4d7](https://github.com/Fall2018COMP401-001/a3-bbordonaro/tree/graded-d7d4d7) | 
-| elwyn578 | a3 | [graded-8bd4f1](https://github.com/Fall2018COMP401-001/a3-elwyn578/tree/graded-8bd4f1) | 
-| Fisherswamp | a3 | [graded-b26ba3](https://github.com/Fall2018COMP401-001/a3-Fisherswamp/tree/graded-b26ba3) | 
-| ijameswei | a3 | [graded-24bab3](https://github.com/Fall2018COMP401-001/a3-ijameswei/tree/graded-24bab3) | 
-| jcpwfloi | a3 | [graded-a05672](https://github.com/Fall2018COMP401-001/a3-jcpwfloi/tree/graded-a05672) | 
-| MEECAH | a3 | [graded-c8e58d](https://github.com/Fall2018COMP401-001/a3-MEECAH/tree/graded-c8e58d) | 
-| noahj98 | a3 | [graded-e741e2](https://github.com/Fall2018COMP401-001/a3-noahj98/tree/graded-e741e2) | 
-| TianziFC | a3 | [graded-05c7b9](https://github.com/Fall2018COMP401-001/a3-TianziFC/tree/graded-05c7b9) | 
+| JacobLButler | a3 | [graded-78b1eb](https://github.com/Fall2018COMP401-001/a3-JacobLButler/tree/graded-78b1eb) | 
+| jph6366 | a3 | [graded-61fc00](https://github.com/Fall2018COMP401-001/a3-jph6366/tree/graded-61fc00) | 
+| ma101521 | a3 | [graded-9f99b6](https://github.com/Fall2018COMP401-001/a3-ma101521/tree/graded-9f99b6) | 
+| mbmayone | a3 | [graded-d74f07](https://github.com/Fall2018COMP401-001/a3-mbmayone/tree/graded-d74f07) | 
+| randy6 | a3 | [graded-c91de3](https://github.com/Fall2018COMP401-001/a3-randy6/tree/graded-c91de3) | 
+| tylery8 | a3 | [graded-eb4813](https://github.com/Fall2018COMP401-001/a3-tylery8/tree/graded-eb4813) | 
+| vallmeister | a3 | [graded-b8b829](https://github.com/Fall2018COMP401-001/a3-vallmeister/tree/graded-b8b829) | 
