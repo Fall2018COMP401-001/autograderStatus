@@ -1,7 +1,8 @@
 # Autograder Status
-Autograder last run at: October 16, 2018 at 11:40
+Autograder last run at: October 16, 2018 at 12:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ijuzumai | a3 | [graded-f9c387](https://github.com/Fall2018COMP401-001/a3-ijuzumai/tree/graded-f9c387) | 
-| mgmelton | a4 | [graded-c0b84a](https://github.com/Fall2018COMP401-001/a4-mgmelton/tree/graded-c0b84a) | 
+| mgmelton | a4 | [graded-50682f](https://github.com/Fall2018COMP401-001/a4-mgmelton/tree/graded-50682f) | 
+| morgan0204 | a4 | [graded-63f2c3](https://github.com/Fall2018COMP401-001/a4-morgan0204/tree/graded-63f2c3) | 
+| yunyingzhu | a4 | [graded-185f5e](https://github.com/Fall2018COMP401-001/a4-yunyingzhu/tree/graded-185f5e) | 
