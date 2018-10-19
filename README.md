@@ -1,7 +1,8 @@
 # Autograder Status
-Autograder last run at: October 18, 2018 at 22:40
+Autograder last run at: October 18, 2018 at 23:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| bentontc | a4 | [graded-84b8de](https://github.com/Fall2018COMP401-001/a4-bentontc/tree/graded-84b8de) | 
-| jillianaraya | a4 | [graded-cbe25f](https://github.com/Fall2018COMP401-001/a4-jillianaraya/tree/graded-cbe25f) | 
+| jph6366 | a4 | [graded-3b66b4](https://github.com/Fall2018COMP401-001/a4-jph6366/tree/graded-3b66b4) | 
+| patelvap | a4 | [graded-2d4ad9](https://github.com/Fall2018COMP401-001/a4-patelvap/tree/graded-2d4ad9) | 
+| Yiyang-Chen | a4 | [graded-1079b9](https://github.com/Fall2018COMP401-001/a4-Yiyang-Chen/tree/graded-1079b9) | 
