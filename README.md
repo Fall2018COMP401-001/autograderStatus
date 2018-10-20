@@ -1,6 +1,7 @@
 # Autograder Status
-Autograder last run at: October 20, 2018 at 19:20
+Autograder last run at: October 20, 2018 at 19:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| sbahali1 | a4 | [graded-9daf3a](https://github.com/Fall2018COMP401-001/a4-sbahali1/tree/graded-9daf3a) | 
+| pranavk14 | a4 | [graded-4c5de1](https://github.com/Fall2018COMP401-001/a4-pranavk14/tree/graded-4c5de1) | 
+| tylerording | a4 | [graded-4a5c00](https://github.com/Fall2018COMP401-001/a4-tylerording/tree/graded-4a5c00) | 
