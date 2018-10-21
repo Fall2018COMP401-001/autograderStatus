@@ -1,11 +1,10 @@
 # Autograder Status
-Autograder last run at: October 21, 2018 at 17:20
+Autograder last run at: October 21, 2018 at 17:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| fanieldan | a4 | [graded-5939aa](https://github.com/Fall2018COMP401-001/a4-fanieldan/tree/graded-5939aa) | 
-| ivyyyq | a4 | [graded-f3398b](https://github.com/Fall2018COMP401-001/a4-ivyyyq/tree/graded-f3398b) | 
-| jgarner10 | a4 | [graded-cefce9](https://github.com/Fall2018COMP401-001/a4-jgarner10/tree/graded-cefce9) | 
-| pranavk14 | a4 | [graded-b3a7bd](https://github.com/Fall2018COMP401-001/a4-pranavk14/tree/graded-b3a7bd) | 
-| supersayan | a4 | [graded-f4607c](https://github.com/Fall2018COMP401-001/a4-supersayan/tree/graded-f4607c) | 
-| themc1r | a4 | [graded-b9c009](https://github.com/Fall2018COMP401-001/a4-themc1r/tree/graded-b9c009) | 
+| alicewyu | a4 | [graded-ae5f37](https://github.com/Fall2018COMP401-001/a4-alicewyu/tree/graded-ae5f37) | 
+| dsuhas99 | a4 | [graded-0aa0ca](https://github.com/Fall2018COMP401-001/a4-dsuhas99/tree/graded-0aa0ca) | 
+| fanieldan | a4 | [graded-d38c9c](https://github.com/Fall2018COMP401-001/a4-fanieldan/tree/graded-d38c9c) | 
+| jhan56 | a4 | [graded-2ffbe8](https://github.com/Fall2018COMP401-001/a4-jhan56/tree/graded-2ffbe8) | 
+| narmis99 | a4 | [graded-841b90](https://github.com/Fall2018COMP401-001/a4-narmis99/tree/graded-841b90) | 
