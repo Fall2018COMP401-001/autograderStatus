@@ -1,13 +1,10 @@
 # Autograder Status
-Autograder last run at: October 21, 2018 at 23:20
+Autograder last run at: October 21, 2018 at 23:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| CreateAnUtopia | a4 | [graded-2b1b70](https://github.com/Fall2018COMP401-001/a4-CreateAnUtopia/tree/graded-2b1b70) | 
-| DanielCALIFORNIA | a4 | [graded-52de43](https://github.com/Fall2018COMP401-001/a4-DanielCALIFORNIA/tree/graded-52de43) | 
-| helenage | a4 | [graded-52b551](https://github.com/Fall2018COMP401-001/a4-helenage/tree/graded-52b551) | 
-| ivyyyq | a4 | [graded-e95648](https://github.com/Fall2018COMP401-001/a4-ivyyyq/tree/graded-e95648) | 
-| kuyon2 | a4 | [graded-ff6cf1](https://github.com/Fall2018COMP401-001/a4-kuyon2/tree/graded-ff6cf1) | 
-| mghanby | a4 | [graded-700d99](https://github.com/Fall2018COMP401-001/a4-mghanby/tree/graded-700d99) | 
-| neerjashah | a4 | [graded-64f849](https://github.com/Fall2018COMP401-001/a4-neerjashah/tree/graded-64f849) | 
-| supersayan | a4 | [graded-48e145](https://github.com/Fall2018COMP401-001/a4-supersayan/tree/graded-48e145) | 
+| jacksonnorris | a4 | [graded-5d1ced](https://github.com/Fall2018COMP401-001/a4-jacksonnorris/tree/graded-5d1ced) | 
+| justinhadad | a4 | [graded-19f88c](https://github.com/Fall2018COMP401-001/a4-justinhadad/tree/graded-19f88c) | 
+| kuyon2 | a4 | [graded-a68687](https://github.com/Fall2018COMP401-001/a4-kuyon2/tree/graded-a68687) | 
+| makenzieobrien | a4 | [graded-4054c6](https://github.com/Fall2018COMP401-001/a4-makenzieobrien/tree/graded-4054c6) | 
+| mghanby | a4 | [graded-7ad62c](https://github.com/Fall2018COMP401-001/a4-mghanby/tree/graded-7ad62c) | 
