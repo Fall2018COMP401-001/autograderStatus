@@ -1,5 +1,6 @@
 # Autograder Status
-Autograder last run at: October 31, 2018 at 16:40
+Autograder last run at: October 31, 2018 at 17:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
+| ariedwards | a3 | [graded-c4cdbd](https://github.com/Fall2018COMP401-001/a3-ariedwards/tree/graded-c4cdbd) | 
