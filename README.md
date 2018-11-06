@@ -1,10 +1,11 @@
 # Autograder Status
-Autograder last run at: November 06, 2018 at 12:20
+Autograder last run at: November 06, 2018 at 12:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| akouminov | a5 | [graded-792cad](https://github.com/Fall2018COMP401-001/a5-akouminov/tree/graded-792cad) | 
-| ecstellman | a5 | [graded-942b50](https://github.com/Fall2018COMP401-001/a5-ecstellman/tree/graded-942b50) | 
-| gabbyruehle | a5 | [graded-6ff0f9](https://github.com/Fall2018COMP401-001/a5-gabbyruehle/tree/graded-6ff0f9) | 
-| jillianaraya | a5 | [graded-93f38f](https://github.com/Fall2018COMP401-001/a5-jillianaraya/tree/graded-93f38f) | 
-| rachel-07 | a5 | [graded-464fc0](https://github.com/Fall2018COMP401-001/a5-rachel-07/tree/graded-464fc0) | 
+| dennycmiel | a5 | [graded-a793a5](https://github.com/Fall2018COMP401-001/a5-dennycmiel/tree/graded-a793a5) | 
+| ecstellman | a5 | [graded-31bf53](https://github.com/Fall2018COMP401-001/a5-ecstellman/tree/graded-31bf53) | 
+| huisui | a5 | [graded-e8923e](https://github.com/Fall2018COMP401-001/a5-huisui/tree/graded-e8923e) | 
+| JiatongShi | a5 | [graded-00296b](https://github.com/Fall2018COMP401-001/a5-JiatongShi/tree/graded-00296b) | 
+| kaydofspades | a5 | [graded-312725](https://github.com/Fall2018COMP401-001/a5-kaydofspades/tree/graded-312725) | 
+| rachel-07 | a5 | [graded-d01d93](https://github.com/Fall2018COMP401-001/a5-rachel-07/tree/graded-d01d93) | 
