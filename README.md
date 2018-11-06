@@ -1,9 +1,8 @@
 # Autograder Status
-Autograder last run at: November 05, 2018 at 22:40
+Autograder last run at: November 05, 2018 at 23:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| arthur0804 | a5 | [graded-15fa6d](https://github.com/Fall2018COMP401-001/a5-arthur0804/tree/graded-15fa6d) | 
-| IftekharUddin | a5 | [graded-881014](https://github.com/Fall2018COMP401-001/a5-IftekharUddin/tree/graded-881014) | 
-| jillianaraya | a5 | [graded-1baa29](https://github.com/Fall2018COMP401-001/a5-jillianaraya/tree/graded-1baa29) | 
-| ttran5593 | a5 | [graded-b6c3cf](https://github.com/Fall2018COMP401-001/a5-ttran5593/tree/graded-b6c3cf) | 
+| asantaloci | a5 | [graded-8b617f](https://github.com/Fall2018COMP401-001/a5-asantaloci/tree/graded-8b617f) | 
+| ivyyyq | a5 | [graded-a89f32](https://github.com/Fall2018COMP401-001/a5-ivyyyq/tree/graded-a89f32) | 
+| tymx | a5 | [graded-4e026b](https://github.com/Fall2018COMP401-001/a5-tymx/tree/graded-4e026b) | 
