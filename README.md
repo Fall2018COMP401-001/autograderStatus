@@ -1,9 +1,9 @@
 # Autograder Status
-Autograder last run at: November 06, 2018 at 16:20
+Autograder last run at: November 06, 2018 at 16:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| helenage | a5 | [graded-d66fc2](https://github.com/Fall2018COMP401-001/a5-helenage/tree/graded-d66fc2) | 
-| jillianaraya | a5 | [graded-188efa](https://github.com/Fall2018COMP401-001/a5-jillianaraya/tree/graded-188efa) | 
-| tymx | a5 | [graded-976001](https://github.com/Fall2018COMP401-001/a5-tymx/tree/graded-976001) | 
-| Vol0324 | a5 | [graded-b59c98](https://github.com/Fall2018COMP401-001/a5-Vol0324/tree/graded-b59c98) | 
+| gillyh2o | a5 | [graded-e4ba50](https://github.com/Fall2018COMP401-001/a5-gillyh2o/tree/graded-e4ba50) | 
+| steheon | a5 | [graded-a9156b](https://github.com/Fall2018COMP401-001/a5-steheon/tree/graded-a9156b) | 
+| TeddyRandby | a5 | [graded-a7fea8](https://github.com/Fall2018COMP401-001/a5-TeddyRandby/tree/graded-a7fea8) | 
+| wellermac1 | a5 | [graded-8b2d5a](https://github.com/Fall2018COMP401-001/a5-wellermac1/tree/graded-8b2d5a) | 
