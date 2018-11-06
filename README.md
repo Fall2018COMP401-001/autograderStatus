@@ -1,11 +1,13 @@
 # Autograder Status
-Autograder last run at: November 06, 2018 at 15:20
+Autograder last run at: November 06, 2018 at 15:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| bentontc | a5 | [graded-575d97](https://github.com/Fall2018COMP401-001/a5-bentontc/tree/graded-575d97) | 
-| ecstellman | a5 | [graded-075aaf](https://github.com/Fall2018COMP401-001/a5-ecstellman/tree/graded-075aaf) | 
-| helenage | a5 | [graded-3d27da](https://github.com/Fall2018COMP401-001/a5-helenage/tree/graded-3d27da) | 
-| jayazeng | a5 | [graded-1cf66b](https://github.com/Fall2018COMP401-001/a5-jayazeng/tree/graded-1cf66b) | 
-| jillianaraya | a5 | [graded-0432fa](https://github.com/Fall2018COMP401-001/a5-jillianaraya/tree/graded-0432fa) | 
-| muyanpan | a5 | [graded-547be6](https://github.com/Fall2018COMP401-001/a5-muyanpan/tree/graded-547be6) | 
+| ataylor7 | a5 | [graded-60163c](https://github.com/Fall2018COMP401-001/a5-ataylor7/tree/graded-60163c) | 
+| bentontc | a5 | [graded-7cc8c4](https://github.com/Fall2018COMP401-001/a5-bentontc/tree/graded-7cc8c4) | 
+| ecstellman | a5 | [graded-2f7119](https://github.com/Fall2018COMP401-001/a5-ecstellman/tree/graded-2f7119) | 
+| jessti6 | a5 | [graded-eb7d7d](https://github.com/Fall2018COMP401-001/a5-jessti6/tree/graded-eb7d7d) | 
+| jhan56 | a5 | [graded-28bae1](https://github.com/Fall2018COMP401-001/a5-jhan56/tree/graded-28bae1) | 
+| kjavvadi | a5 | [graded-2f871c](https://github.com/Fall2018COMP401-001/a5-kjavvadi/tree/graded-2f871c) | 
+| steheon | a5 | [graded-54d8d0](https://github.com/Fall2018COMP401-001/a5-steheon/tree/graded-54d8d0) | 
+| TeddyRandby | a5 | [graded-26402d](https://github.com/Fall2018COMP401-001/a5-TeddyRandby/tree/graded-26402d) | 
