@@ -1,10 +1,9 @@
 # Autograder Status
-Autograder last run at: November 06, 2018 at 22:40
+Autograder last run at: November 06, 2018 at 23:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| jayazeng | a5 | [graded-5fb247](https://github.com/Fall2018COMP401-001/a5-jayazeng/tree/graded-5fb247) | 
-| jollyoldsaintnixon | a3 | [graded-f5f888](https://github.com/Fall2018COMP401-001/a3-jollyoldsaintnixon/tree/graded-f5f888) | 
-| plschmitt | a5 | [graded-5920df](https://github.com/Fall2018COMP401-001/a5-plschmitt/tree/graded-5920df) | 
-| sam1230 | a5 | [graded-061d89](https://github.com/Fall2018COMP401-001/a5-sam1230/tree/graded-061d89) | 
-| TianziFC | a5 | [graded-f30b70](https://github.com/Fall2018COMP401-001/a5-TianziFC/tree/graded-f30b70) | 
+| jgarner10 | a5 | [graded-58496e](https://github.com/Fall2018COMP401-001/a5-jgarner10/tree/graded-58496e) | 
+| jtfloyd88 | a5 | [graded-70924a](https://github.com/Fall2018COMP401-001/a5-jtfloyd88/tree/graded-70924a) | 
+| steheon | a5 | [graded-577e6c](https://github.com/Fall2018COMP401-001/a5-steheon/tree/graded-577e6c) | 
+| TianziFC | a5 | [graded-96e27c](https://github.com/Fall2018COMP401-001/a5-TianziFC/tree/graded-96e27c) | 
