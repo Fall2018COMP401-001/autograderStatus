@@ -1,6 +1,6 @@
 # Autograder Status
-Autograder last run at: November 08, 2018 at 16:20
+Autograder last run at: November 08, 2018 at 16:40
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ajhall321 | a5 | [graded-e10d0f](https://github.com/Fall2018COMP401-001/a5-ajhall321/tree/graded-e10d0f) | 
+| fanieldan | a5 | [graded-79fd46](https://github.com/Fall2018COMP401-001/a5-fanieldan/tree/graded-79fd46) | 
