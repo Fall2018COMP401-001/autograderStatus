@@ -1,6 +1,6 @@
 # Autograder Status
-Autograder last run at: November 09, 2018 at 16:40
+Autograder last run at: November 09, 2018 at 17:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| bjtaylo | a5 | [graded-0718f4](https://github.com/Fall2018COMP401-001/a5-bjtaylo/tree/graded-0718f4) | 
+| shilongdai | a5 | [graded-19237f](https://github.com/Fall2018COMP401-001/a5-shilongdai/tree/graded-19237f) | 
