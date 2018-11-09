@@ -1,7 +1,8 @@
 # Autograder Status
-Autograder last run at: November 09, 2018 at 10:40
+Autograder last run at: November 09, 2018 at 11:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| benespo | a5 | [graded-a3573f](https://github.com/Fall2018COMP401-001/a5-benespo/tree/graded-a3573f) | 
-| kwonjhk | a5 | [graded-f4152f](https://github.com/Fall2018COMP401-001/a5-kwonjhk/tree/graded-f4152f) | 
+| Halmoha | a2 | [graded-3f0b2b](https://github.com/Fall2018COMP401-001/a2-Halmoha/tree/graded-3f0b2b) | 
+| neerjashah | a5 | [graded-a78ea4](https://github.com/Fall2018COMP401-001/a5-neerjashah/tree/graded-a78ea4) | 
+| zhenxu1995 | a5 | [graded-136daa](https://github.com/Fall2018COMP401-001/a5-zhenxu1995/tree/graded-136daa) | 
