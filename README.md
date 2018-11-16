@@ -1,30 +1,46 @@
 # Autograder Status
-Autograder last run at: November 16, 2018 at 15:40
+Autograder last run at: November 16, 2018 at 16:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ajhall321 | a6 | [graded-3a4709](https://github.com/Fall2018COMP401-001/a6-ajhall321/tree/graded-3a4709) | 
-| akarafas | a6 | [graded-3a7fbb](https://github.com/Fall2018COMP401-001/a6-akarafas/tree/graded-3a7fbb) | 
-| allenst1 | a6 | [graded-6a4b24](https://github.com/Fall2018COMP401-001/a6-allenst1/tree/graded-6a4b24) | 
-| asantaloci | a6 | [graded-31a337](https://github.com/Fall2018COMP401-001/a6-asantaloci/tree/graded-31a337) | 
-| dennycmiel | a6 | [graded-da526f](https://github.com/Fall2018COMP401-001/a6-dennycmiel/tree/graded-da526f) | 
-| erevis | a6 | [graded-f1816d](https://github.com/Fall2018COMP401-001/a6-erevis/tree/graded-f1816d) | 
-| fanieldan | a6 | [graded-db4d66](https://github.com/Fall2018COMP401-001/a6-fanieldan/tree/graded-db4d66) | 
-| hmbodnar | a6 | [graded-c6c1e7](https://github.com/Fall2018COMP401-001/a6-hmbodnar/tree/graded-c6c1e7) | 
-| ijameswei | a6 | [graded-424adb](https://github.com/Fall2018COMP401-001/a6-ijameswei/tree/graded-424adb) | 
-| iwilhelmsen | a6 | [graded-1c5682](https://github.com/Fall2018COMP401-001/a6-iwilhelmsen/tree/graded-1c5682) | 
-| jph6366 | a6 | [graded-2c1b89](https://github.com/Fall2018COMP401-001/a6-jph6366/tree/graded-2c1b89) | 
-| kuyon2 | a6 | [graded-db39e0](https://github.com/Fall2018COMP401-001/a6-kuyon2/tree/graded-db39e0) | 
-| Lolz1243 | a6 | [graded-80afb8](https://github.com/Fall2018COMP401-001/a6-Lolz1243/tree/graded-80afb8) | 
-| makenzieobrien | a6 | [graded-308cfc](https://github.com/Fall2018COMP401-001/a6-makenzieobrien/tree/graded-308cfc) | 
-| mghanby | a6 | [graded-d21bfd](https://github.com/Fall2018COMP401-001/a6-mghanby/tree/graded-d21bfd) | 
-| mikedoucettejr | a6 | [graded-cde4f0](https://github.com/Fall2018COMP401-001/a6-mikedoucettejr/tree/graded-cde4f0) | 
-| muyanpan | a6 | [graded-45ce92](https://github.com/Fall2018COMP401-001/a6-muyanpan/tree/graded-45ce92) | 
-| natahug | a6 | [graded-6548af](https://github.com/Fall2018COMP401-001/a6-natahug/tree/graded-6548af) | 
-| Oliveira8 | a6 | [graded-0b4181](https://github.com/Fall2018COMP401-001/a6-Oliveira8/tree/graded-0b4181) | 
-| postse | a6 | [graded-c04c27](https://github.com/Fall2018COMP401-001/a6-postse/tree/graded-c04c27) | 
-| pranavk14 | a6 | [graded-ed421d](https://github.com/Fall2018COMP401-001/a6-pranavk14/tree/graded-ed421d) | 
-| saintramsey | a6 | [graded-a00062](https://github.com/Fall2018COMP401-001/a6-saintramsey/tree/graded-a00062) | 
-| shilongdai | a6 | [graded-20465f](https://github.com/Fall2018COMP401-001/a6-shilongdai/tree/graded-20465f) | 
-| spencerbuted | a6 | [graded-2c3851](https://github.com/Fall2018COMP401-001/a6-spencerbuted/tree/graded-2c3851) | 
-| yaxue1123 | a6 | [graded-e9e3b0](https://github.com/Fall2018COMP401-001/a6-yaxue1123/tree/graded-e9e3b0) | 
+| allenst1 | a6 | [graded-49af7d](https://github.com/Fall2018COMP401-001/a6-allenst1/tree/graded-49af7d) | 
+| bentontc | a6 | [graded-a26fb8](https://github.com/Fall2018COMP401-001/a6-bentontc/tree/graded-a26fb8) | 
+| bjtaylo | a6 | [graded-b43337](https://github.com/Fall2018COMP401-001/a6-bjtaylo/tree/graded-b43337) | 
+| bowenbrinegar | a6 | [graded-82f389](https://github.com/Fall2018COMP401-001/a6-bowenbrinegar/tree/graded-82f389) | 
+| dennycmiel | a6 | [graded-1ec357](https://github.com/Fall2018COMP401-001/a6-dennycmiel/tree/graded-1ec357) | 
+| ElijahWilde | a6 | [graded-528c8f](https://github.com/Fall2018COMP401-001/a6-ElijahWilde/tree/graded-528c8f) | 
+| Enzohuang | a6 | [graded-35fce0](https://github.com/Fall2018COMP401-001/a6-Enzohuang/tree/graded-35fce0) | 
+| georged2 | a6 | [graded-d24844](https://github.com/Fall2018COMP401-001/a6-georged2/tree/graded-d24844) | 
+| hannah47 | a6 | [graded-e2a472](https://github.com/Fall2018COMP401-001/a6-hannah47/tree/graded-e2a472) | 
+| IftekharUddin | a6 | [graded-5c5ef9](https://github.com/Fall2018COMP401-001/a6-IftekharUddin/tree/graded-5c5ef9) | 
+| ijameswei | a6 | [graded-32e99c](https://github.com/Fall2018COMP401-001/a6-ijameswei/tree/graded-32e99c) | 
+| ishaan14 | a6 | [graded-0d18c9](https://github.com/Fall2018COMP401-001/a6-ishaan14/tree/graded-0d18c9) | 
+| iwilhelmsen | a6 | [graded-8cbe4e](https://github.com/Fall2018COMP401-001/a6-iwilhelmsen/tree/graded-8cbe4e) | 
+| jaredunc | a6 | [graded-e1dee9](https://github.com/Fall2018COMP401-001/a6-jaredunc/tree/graded-e1dee9) | 
+| jgarner10 | a6 | [graded-7f0d73](https://github.com/Fall2018COMP401-001/a6-jgarner10/tree/graded-7f0d73) | 
+| kuyon2 | a6 | [graded-fb4456](https://github.com/Fall2018COMP401-001/a6-kuyon2/tree/graded-fb4456) | 
+| makenzieobrien | a6 | [graded-788eed](https://github.com/Fall2018COMP401-001/a6-makenzieobrien/tree/graded-788eed) | 
+| Mattizzone | a6 | [graded-42b9e8](https://github.com/Fall2018COMP401-001/a6-Mattizzone/tree/graded-42b9e8) | 
+| MEECAH | a6 | [graded-676228](https://github.com/Fall2018COMP401-001/a6-MEECAH/tree/graded-676228) | 
+| mgmelton | a6 | [graded-2e6ac0](https://github.com/Fall2018COMP401-001/a6-mgmelton/tree/graded-2e6ac0) | 
+| mikedoucettejr | a6 | [graded-a16dd2](https://github.com/Fall2018COMP401-001/a6-mikedoucettejr/tree/graded-a16dd2) | 
+| myusername38 | a6 | [graded-f6cc5a](https://github.com/Fall2018COMP401-001/a6-myusername38/tree/graded-f6cc5a) | 
+| natahug | a6 | [graded-b9c4ee](https://github.com/Fall2018COMP401-001/a6-natahug/tree/graded-b9c4ee) | 
+| nehamedikayala | a6 | [graded-a48100](https://github.com/Fall2018COMP401-001/a6-nehamedikayala/tree/graded-a48100) | 
+| noahmerenbloom | a6 | [graded-427b15](https://github.com/Fall2018COMP401-001/a6-noahmerenbloom/tree/graded-427b15) | 
+| pdweeks | a6 | [graded-e6143e](https://github.com/Fall2018COMP401-001/a6-pdweeks/tree/graded-e6143e) | 
+| postse | a6 | [graded-849514](https://github.com/Fall2018COMP401-001/a6-postse/tree/graded-849514) | 
+| prasjain | a6 | [graded-e4bb11](https://github.com/Fall2018COMP401-001/a6-prasjain/tree/graded-e4bb11) | 
+| rachel-07 | a6 | [graded-86162e](https://github.com/Fall2018COMP401-001/a6-rachel-07/tree/graded-86162e) | 
+| rwebster787 | a6 | [graded-b1c93d](https://github.com/Fall2018COMP401-001/a6-rwebster787/tree/graded-b1c93d) | 
+| saintramsey | a6 | [graded-01f33d](https://github.com/Fall2018COMP401-001/a6-saintramsey/tree/graded-01f33d) | 
+| sbahali1 | a6 | [graded-fd5833](https://github.com/Fall2018COMP401-001/a6-sbahali1/tree/graded-fd5833) | 
+| supersayan | a6 | [graded-cef457](https://github.com/Fall2018COMP401-001/a6-supersayan/tree/graded-cef457) | 
+| templewalston | a6 | [graded-2d0e10](https://github.com/Fall2018COMP401-001/a6-templewalston/tree/graded-2d0e10) | 
+| themc1r | a6 | [graded-f76a5b](https://github.com/Fall2018COMP401-001/a6-themc1r/tree/graded-f76a5b) | 
+| tylerdy | a6 | [graded-f28e46](https://github.com/Fall2018COMP401-001/a6-tylerdy/tree/graded-f28e46) | 
+| vambil | a6 | [graded-0c16da](https://github.com/Fall2018COMP401-001/a6-vambil/tree/graded-0c16da) | 
+| vincentlux | a6 | [graded-729d8e](https://github.com/Fall2018COMP401-001/a6-vincentlux/tree/graded-729d8e) | 
+| wbholland | a6 | [graded-48300e](https://github.com/Fall2018COMP401-001/a6-wbholland/tree/graded-48300e) | 
+| wellermac1 | a6 | [graded-47101a](https://github.com/Fall2018COMP401-001/a6-wellermac1/tree/graded-47101a) | 
+| Wertops | a6 | [graded-63f50d](https://github.com/Fall2018COMP401-001/a6-Wertops/tree/graded-63f50d) | 
