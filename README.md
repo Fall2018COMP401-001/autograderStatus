@@ -1,19 +1,18 @@
 # Autograder Status
-Autograder last run at: November 17, 2018 at 18:40
+Autograder last run at: November 17, 2018 at 19:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| amlahey | a6 | [graded-c03e6f](https://github.com/Fall2018COMP401-001/a6-amlahey/tree/graded-c03e6f) | 
-| asantaloci | a6 | [graded-c6e051](https://github.com/Fall2018COMP401-001/a6-asantaloci/tree/graded-c6e051) | 
-| bowenbrinegar | a6 | [graded-97bb0a](https://github.com/Fall2018COMP401-001/a6-bowenbrinegar/tree/graded-97bb0a) | 
-| GTWise | a6 | [graded-d83f09](https://github.com/Fall2018COMP401-001/a6-GTWise/tree/graded-d83f09) | 
-| jollyoldsaintnixon | a6 | [graded-b3a3ec](https://github.com/Fall2018COMP401-001/a6-jollyoldsaintnixon/tree/graded-b3a3ec) | 
-| jph6366 | a6 | [graded-2fad27](https://github.com/Fall2018COMP401-001/a6-jph6366/tree/graded-2fad27) | 
-| mxuch | a6 | [graded-dca0c1](https://github.com/Fall2018COMP401-001/a6-mxuch/tree/graded-dca0c1) | 
-| steheon | a6 | [graded-59234f](https://github.com/Fall2018COMP401-001/a6-steheon/tree/graded-59234f) | 
-1f4d1) | 
-| rdhall98 | a6 | [graded-7f2341](https://github.com/Fall2018COMP401-001/a6-rdhall98/tree/graded-7f2341) | 
-| sam1230 | a6 | [graded-460246](https://github.com/Fall2018COMP401-001/a6-sam1230/tree/graded-460246) | 
-| steheon | a6 | [graded-fcbfbc](https://github.com/Fall2018COMP401-001/a6-steheon/tree/graded-fcbfbc) | 
-| themc1r | a6 | [graded-f670d7](https://github.com/Fall2018COMP401-001/a6-themc1r/tree/graded-f670d7) | 
-| tymx | a6 | [graded-a4c455](https://github.com/Fall2018COMP401-001/a6-tymx/tree/graded-a4c455) | 
+| BenReiter | a6 | [graded-fe7e86](https://github.com/Fall2018COMP401-001/a6-BenReiter/tree/graded-fe7e86) | 
+| bowenbrinegar | a6 | [graded-1d0963](https://github.com/Fall2018COMP401-001/a6-bowenbrinegar/tree/graded-1d0963) | 
+| CreateAnUtopia | a6 | [graded-7e1a65](https://github.com/Fall2018COMP401-001/a6-CreateAnUtopia/tree/graded-7e1a65) | 
+| GTWise | a6 | [graded-6d7e32](https://github.com/Fall2018COMP401-001/a6-GTWise/tree/graded-6d7e32) | 
+| JacobLButler | a6 | [graded-638947](https://github.com/Fall2018COMP401-001/a6-JacobLButler/tree/graded-638947) | 
+| mxuch | a6 | [graded-f43ad6](https://github.com/Fall2018COMP401-001/a6-mxuch/tree/graded-f43ad6) | 
+| narmis99 | a6 | [graded-0c6b9c](https://github.com/Fall2018COMP401-001/a6-narmis99/tree/graded-0c6b9c) | 
+| noxdecios | a6 | [graded-fe7dd6](https://github.com/Fall2018COMP401-001/a6-noxdecios/tree/graded-fe7dd6) | 
+| SenthilvelV | a6 | [graded-3cc969](https://github.com/Fall2018COMP401-001/a6-SenthilvelV/tree/graded-3cc969) | 
+| steheon | a6 | [graded-3005c6](https://github.com/Fall2018COMP401-001/a6-steheon/tree/graded-3005c6) | 
+| TianziFC | a6 | [graded-42ff5d](https://github.com/Fall2018COMP401-001/a6-TianziFC/tree/graded-42ff5d) | 
+| usmanraja9 | a6 | [graded-29ec13](https://github.com/Fall2018COMP401-001/a6-usmanraja9/tree/graded-29ec13) | 
+| zheyongzhou | a6 | [graded-56443e](https://github.com/Fall2018COMP401-001/a6-zheyongzhou/tree/graded-56443e) | 
