@@ -1,6 +1,6 @@
 # Autograder Status
-Autograder last run at: November 24, 2018 at 15:40
+Autograder last run at: November 24, 2018 at 16:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| komalessarani | a6 | [graded-a4712b](https://github.com/Fall2018COMP401-001/a6-komalessarani/tree/graded-a4712b) | 
+| vinayakgrover | a3 | [graded-b42500](https://github.com/Fall2018COMP401-001/a3-vinayakgrover/tree/graded-b42500) | 
