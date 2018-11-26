@@ -1,6 +1,6 @@
 # Autograder Status
-Autograder last run at: November 26, 2018 at 17:40
+Autograder last run at: November 26, 2018 at 18:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ann3sophie | a6 | [graded-3230b0](https://github.com/Fall2018COMP401-001/a6-ann3sophie/tree/graded-3230b0) | 
+| hopegattis | a6 | [graded-e5e393](https://github.com/Fall2018COMP401-001/a6-hopegattis/tree/graded-e5e393) | 
