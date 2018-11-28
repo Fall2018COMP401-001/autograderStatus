@@ -1,6 +1,6 @@
 # Autograder Status
-Autograder last run at: November 28, 2018 at 00:40
+Autograder last run at: November 28, 2018 at 01:20
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| bricharles | a6 | [graded-2f1e58](https://github.com/Fall2018COMP401-001/a6-bricharles/tree/graded-2f1e58) | 
+| theoegan | a6 | [graded-f675b3](https://github.com/Fall2018COMP401-001/a6-theoegan/tree/graded-f675b3) | 
