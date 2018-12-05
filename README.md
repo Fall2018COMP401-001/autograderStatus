@@ -1,29 +1,22 @@
 # Autograder Status
-Autograder last run at: December 05, 2018 at 10:10
+Autograder last run at: December 05, 2018 at 17:14
 
 | GitHub ID | Assignment | Graded Branch |
 |-----------|------------|---------------|
-| ajhall321 | a3 | [graded-b6bb35](https://github.com/Fall2018COMP401-001/a3-ajhall321/tree/graded-b6bb35) | 
-| alecway | a5 | [graded-d70c94](https://github.com/Fall2018COMP401-001/a5-alecway/tree/graded-d70c94) | 
-| ariedwards | a4 | [graded-ea002c](https://github.com/Fall2018COMP401-001/a4-ariedwards/tree/graded-ea002c) | 
-| arshnooor | a4 | [graded-a1b898](https://github.com/Fall2018COMP401-001/a4-arshnooor/tree/graded-a1b898) | 
-| arshnooor | a6 | [graded-c41633](https://github.com/Fall2018COMP401-001/a6-arshnooor/tree/graded-c41633) | 
-| harrisonjm1 | a1 | [graded-db7cd5](https://github.com/Fall2018COMP401-001/a1-harrisonjm1/tree/graded-db7cd5) | 
-| harrisonjm1 | a2 | [graded-8dbe00](https://github.com/Fall2018COMP401-001/a2-harrisonjm1/tree/graded-8dbe00) | 
-| harrisonjm1 | a4 | [graded-5ca6e0](https://github.com/Fall2018COMP401-001/a4-harrisonjm1/tree/graded-5ca6e0) | 
-| JakobKlahsen | a3 | [graded-a100a4](https://github.com/Fall2018COMP401-001/a3-JakobKlahsen/tree/graded-a100a4) | 
-| Jessi245 | a5 | [graded-7a554d](https://github.com/Fall2018COMP401-001/a5-Jessi245/tree/graded-7a554d) | 
-| jollyoldsaintnixon | a3 | [graded-6a485d](https://github.com/Fall2018COMP401-001/a3-jollyoldsaintnixon/tree/graded-6a485d) | 
-| Kcj55575 | a3 | [graded-9ccef4](https://github.com/Fall2018COMP401-001/a3-Kcj55575/tree/graded-9ccef4) | 
-| Kcj55575 | a4 | [graded-bf7fca](https://github.com/Fall2018COMP401-001/a4-Kcj55575/tree/graded-bf7fca) | 
-| Kcj55575 | a5 | [graded-f5973e](https://github.com/Fall2018COMP401-001/a5-Kcj55575/tree/graded-f5973e) | 
-| Kcj55575 | a6 | [graded-831e56](https://github.com/Fall2018COMP401-001/a6-Kcj55575/tree/graded-831e56) | 
-| mahikak | a2 | [graded-3800ad](https://github.com/Fall2018COMP401-001/a2-mahikak/tree/graded-3800ad) | 
-| rdhall98 | a3 | [graded-54b044](https://github.com/Fall2018COMP401-001/a3-rdhall98/tree/graded-54b044) | 
-| SebastianCrowell | a2 | [graded-8eff69](https://github.com/Fall2018COMP401-001/a2-SebastianCrowell/tree/graded-8eff69) | 
-| SebastianCrowell | a3 | [graded-b1a1cb](https://github.com/Fall2018COMP401-001/a3-SebastianCrowell/tree/graded-b1a1cb) | 
-| spencerbuted | a6 | [graded-09d335](https://github.com/Fall2018COMP401-001/a6-spencerbuted/tree/graded-09d335) | 
-| tkintali | a4 | [graded-12d81e](https://github.com/Fall2018COMP401-001/a4-tkintali/tree/graded-12d81e) | 
-| tlawson7125 | a2 | [graded-224fb0](https://github.com/Fall2018COMP401-001/a2-tlawson7125/tree/graded-224fb0) | 
-| vinayakgrover | a1 | [graded-98dfe0](https://github.com/Fall2018COMP401-001/a1-vinayakgrover/tree/graded-98dfe0) | 
-| vinayakgrover | a2 | [graded-73ed23](https://github.com/Fall2018COMP401-001/a2-vinayakgrover/tree/graded-73ed23) | 
+| ajhall321 | a3 | [graded-ba31fe](https://github.com/Fall2018COMP401-001/a3-ajhall321/tree/graded-ba31fe) | 
+| alecway | a4 | [graded-74b551](https://github.com/Fall2018COMP401-001/a4-alecway/tree/graded-74b551) | 
+| barrierwilliam | a3 | [graded-c20216](https://github.com/Fall2018COMP401-001/a3-barrierwilliam/tree/graded-c20216) | 
+| BenReiter | a1 | [graded-daae74](https://github.com/Fall2018COMP401-001/a1-BenReiter/tree/graded-daae74) | 
+| BenReiter | a3 | [graded-5049a1](https://github.com/Fall2018COMP401-001/a3-BenReiter/tree/graded-5049a1) | 
+| BenReiter | a4 | [graded-b97e79](https://github.com/Fall2018COMP401-001/a4-BenReiter/tree/graded-b97e79) | 
+| brendanfusik | a6 | [graded-18e03d](https://github.com/Fall2018COMP401-001/a6-brendanfusik/tree/graded-18e03d) | 
+| harrisonjm1 | a1 | [graded-255ce5](https://github.com/Fall2018COMP401-001/a1-harrisonjm1/tree/graded-255ce5) | 
+| jollyoldsaintnixon | a3 | [graded-f21028](https://github.com/Fall2018COMP401-001/a3-jollyoldsaintnixon/tree/graded-f21028) | 
+| jollyoldsaintnixon | a5 | [graded-be5ebc](https://github.com/Fall2018COMP401-001/a5-jollyoldsaintnixon/tree/graded-be5ebc) | 
+| Kcj55575 | a4 | [graded-714758](https://github.com/Fall2018COMP401-001/a4-Kcj55575/tree/graded-714758) | 
+| Kcj55575 | a6 | [graded-e48e38](https://github.com/Fall2018COMP401-001/a6-Kcj55575/tree/graded-e48e38) | 
+| sam1230 | a3 | [graded-6f8d66](https://github.com/Fall2018COMP401-001/a3-sam1230/tree/graded-6f8d66) | 
+| SebastianCrowell | a2 | [graded-a665a6](https://github.com/Fall2018COMP401-001/a2-SebastianCrowell/tree/graded-a665a6) | 
+| STimothyDN | a6 | [graded-d6d773](https://github.com/Fall2018COMP401-001/a6-STimothyDN/tree/graded-d6d773) | 
+| tisaacc | a2 | [graded-8108a5](https://github.com/Fall2018COMP401-001/a2-tisaacc/tree/graded-8108a5) | 
+| tkintali | a4 | [graded-c92e89](https://github.com/Fall2018COMP401-001/a4-tkintali/tree/graded-c92e89) | 
